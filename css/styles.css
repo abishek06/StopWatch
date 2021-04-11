@@ -1,0 +1,29 @@
+body {
+  background-color: burlywood;
+}
+
+#container {
+  width: 250px;
+  height: 150px;
+  border: 1px solid black;
+  margin: 200px 600px;
+  padding: 10px;
+  text-align: center;
+  background-color: lightslategray;
+  border-radius: 10px;
+}
+
+h4 {
+  color: lightseagreen;
+}
+
+button {
+  width: 25%;
+  border-radius: 20px;
+}
+
+#btnStart,
+#btnStop,
+#btnReset {
+  cursor: pointer;
+}
